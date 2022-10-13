@@ -1,2 +1,2 @@
 # movie-search-react-app
-Created using react
+movie search react app 
