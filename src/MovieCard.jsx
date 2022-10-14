@@ -8,6 +8,7 @@ const MovieCard = ({ data }) => {
       </div>
       <div>
         <img
+          alt={`${data.Title} poster`}
           src={
             data.Poster !== "N/A"
               ? data.Poster
