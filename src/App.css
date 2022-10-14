@@ -57,10 +57,10 @@ h1 {
   color: #a1a1a1;
   background: #1f2123;
 }
-.search img {
-  width: 35px;
-  height: 35px;
+.search button {
   cursor: pointer;
+  background: transparent;
+  color: white;
 }
 
 /* .search button {
